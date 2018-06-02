@@ -24,8 +24,14 @@ Usage:
         -m/--multinetwork   Update devices across multiple networks using a CSV
         -v/--ver/--version  Display the version of this script
 
-<br />
----
-Ryan M. Adzima<br />
-Twitter: [@radzima](https://twitter.com/radzima)<br />
-Blog: [Techvangelist.net](https://techvangelist.net)<br />
+
+##### Author: [Ryan M. Adzima](https://linkedin.com/in/radzima)
+##### Twitter: [@radzima](https://twitter.com/radzima)
+##### Website: [Two Evil Geniuses](https://twoevilgeniuses.com)
+
+License
+=======
+
+GNU General Public License v3.0
+
+See `LICENSE <LICENSE>`_ to see the full text.
